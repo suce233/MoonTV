@@ -128,6 +128,30 @@
     "uku": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "U酷资源" 
+    },
+    "新浪": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源" 
+    },
+    "guangsu": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "光速资源" 
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源" 
+    },
+    "maotai": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源" 
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源" 
+    },
+    "kuaiche": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源" 
     }
   }
 }
